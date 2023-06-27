@@ -12,3 +12,4 @@ def retColorAndTeam():
 usersFavColor = determineFavColor()
 usersFavTeam = determineFavoriteTeam()
 retColorAndTeam()
+
