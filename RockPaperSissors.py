@@ -13,7 +13,6 @@ print('Rock, Paper, Sissors, Shoot!')
 
 print('I got ' + randElement + ' and you got ' + choices[int(userInput)])
 
-
 if(randElement == choices[int(userInput)]):
     print('It\'s a stalemate')
 
