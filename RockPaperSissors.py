@@ -34,4 +34,3 @@ elif(randElement == 'Rock' and choices[int(userInput)]== 'Paper'):
 
 elif(randElement == 'Rock' and choices[int(userInput)]== 'Sissors'):
     print('I won!')
-
