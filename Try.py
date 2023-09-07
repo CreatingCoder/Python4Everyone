@@ -14,6 +14,5 @@ class Try:
         except:
             return print('Error: user input contains a symbol other than a number.')
 
-    
 t = Try()
 t.addNumbers()
